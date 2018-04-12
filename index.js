@@ -3,9 +3,9 @@ module.exports = {
 }
 
 function circle_area(radius){
-  return Math.pi*radius**2;
+  return Math.PI*radius**2;
 }
 
 function circle_circumference(radius){
-  return 2*Math.pi*radius;
+  return 2*Math.PI*radius;
 }
