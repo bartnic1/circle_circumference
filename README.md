@@ -4,9 +4,13 @@
 
 npm i circle_circumference
 
-const circumference = require('index.js');
+const files = require('index.js');
 
-console.log(circumference(radius))
+console.log(files.circle_area(radius))
 
-returns the circumference of a circle with a given radius.
+::or::
+
+console.log(files.circle_circumference(radius))
+
+returns the circumference of a circle with a given radius or the area!!!
 
