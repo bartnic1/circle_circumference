@@ -2,15 +2,15 @@
 
 ## Quickstart
 
-npm i circle_circumference
+npm i circle_math
 
-const files = require('index.js');
+const circles = require('circle_math');
 
-console.log(files.circle_area(radius))
+console.log(circles.circle_area(radius))
 
 ::or::
 
-console.log(files.circle_circumference(radius))
+console.log(circles.circle_circumference(radius))
 
 returns the circumference of a circle with a given radius or the area!!!
 
