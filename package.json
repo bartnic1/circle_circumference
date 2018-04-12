@@ -1,13 +1,13 @@
 {
   "name": "circle_math",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" :
-  {"type": "git",
+  "repository": {
+    "type": "git",
     "url": "https://github.com/bartnic1/circle_circumference"
   },
   "author": "Piotr Bartnicki",
